@@ -1,0 +1,14 @@
+Az AIX az Advanced Interactive eXecutive rövidítése. 
+Az AIX egy kereskedelmi Unix operációs rendszer, amit
+az IBM fejleszt. 
+
+Az AIX a UNIX System V rendszeren alapszik.
+
+Támogatott platformok:
+IBM RS/6000
+POWER
+PowerPC
+IBM System i
+System/370
+PS/2
+Apple Network Server
